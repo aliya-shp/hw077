@@ -1,0 +1,1 @@
+export const frontURL = 'http://localhost:8000';
